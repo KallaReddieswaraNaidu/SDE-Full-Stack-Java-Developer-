@@ -1,438 +1,264 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:00D9FF&height=230&section=header&text=Reddieswara%20Naidu%20Kalla&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud-Native%20Architect%20%7C%20Microservices%20Engineer&descSize=16&descColor=C9D1D9&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%E2%9A%A1+5%2B+Years+Shipping+Production+Systems+at+Scale;%F0%9F%8F%97%EF%B8%8F+Telecom+%C2%B7+Healthcare+%C2%B7+Fintech+%7C+1M%2B+Users+Served;%F0%9F%94%A5+99.99%25+Uptime+%7C+40%25+Cost+Reduction+%7C+95%25%2B+Test+Coverage)](https://git.io/typing-svg)
+# Reddieswara Naidu Kalla
+
+**Full Stack Developer** &nbsp;·&nbsp; **Microservices Architect** &nbsp;·&nbsp; **Cloud Engineer**
+
+Building production systems that serve **1M+ users** across **telecom**, **healthcare**, and **fintech**
 
 <br/>
 
-<a href="mailto:reddieswaranaidusunycs@gmail.com"><img src="https://img.shields.io/badge/✉_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=for-the-badge&label=VISITORS" />
-
-<br/><br/>
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=YOUR_GITHUB_USERNAME&data=followers,repositories,stars,commits&theme=darkmode" width="500" />
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/kalla-reddieswara-naidu)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25" />](https://github.com/KallaReddieswaraNaidu)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25" />](mailto:reddieswaranaidusunycs@gmail.com)&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/New_Paltz,_NY-333?style=flat" height="25" />
 
 </div>
 
----
+<br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/📍_New_Paltz,_NY-0D1117?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/🎓_MS_CS_@_SUNY_New_Paltz_(2025)-0D1117?style=flat-square" />
-<img src="https://img.shields.io/badge/📜_IIT_Chennai_Certified_Full_Stack_Dev-0D1117?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Full_Stack_Dev_@_Aviat_Networks-0D1117?style=flat-square" />
-</div>
+## At a Glance
 
----
+```
+5+ years shipping production-grade distributed systems
+MS in Computer Science @ SUNY New Paltz (2025)
+Currently: Full Stack Developer @ Aviat Networks
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```js
-const reddi = {
-    pronouns: "he/him",
-    location: "New Paltz, NY 🗽",
-    currentRole: "Full Stack Developer @ Aviat Networks",
-    education: "MS Computer Science — SUNY New Paltz (2025)",
-    
-    domains: {
-        telecom:    "Real-time telemetry for 1000s of radios across 25+ U.S. states",
-        healthcare: "HL7 FHIR R4-compliant platforms serving hospitals across India",
-        fintech:    "Event-driven trading analytics & batch processing pipelines"
-    },
-
-    architecture: ["Microservices", "Event-Driven", "Domain-Driven Design", "Cloud-Native"],
-    currentFocus: "Building resilient distributed systems that don't page me at 3 AM 😄",
-    funFact: "I've shipped code that runs on radios in the African savanna 🌍"
-};
+I specialize in designing Spring Boot microservices, Kafka event pipelines,
+and cloud infrastructure on AWS — with a focus on systems that are secure,
+observable, well-tested, and built to handle real-world scale.
 ```
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"> &nbsp;Impact Dashboard
+## Results That Matter
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="150">
-<h1>40%</h1>
-<sub><b>↓ OpEx Costs</b></sub>
+<td align="center" width="25%">
+
+### 99.99%
+**System Uptime**
+<sub>AWS event-driven architecture</sub>
+
 </td>
-<td align="center" width="150">
-<h1>99.99%</h1>
-<sub><b>Uptime SLA</b></sub>
+<td align="center" width="25%">
+
+### 40%
+**Cost Reduction**
+<sub>Field maintenance optimization</sub>
+
 </td>
-<td align="center" width="150">
-<h1>1M+</h1>
-<sub><b>Users Served</b></sub>
+<td align="center" width="25%">
+
+### 1M+
+**End Users**
+<sub>Across 3 domains, 4 continents</sub>
+
 </td>
-<td align="center" width="150">
-<h1>35%</h1>
-<sub><b>↓ Downtime</b></sub>
+<td align="center" width="25%">
+
+### 100%
+**FHIR R4 Compliance**
+<sub>National certification passed</sub>
+
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center" width="150">
-<h1>70%</h1>
-<sub><b>↓ Manual Work</b></sub>
-</td>
-<td align="center" width="150">
-<h1>95%+</h1>
-<sub><b>Test Coverage</b></sub>
-</td>
-<td align="center" width="150">
-<h1>100%</h1>
-<sub><b>FHIR R4 Compliance</b></sub>
-</td>
-<td align="center" width="150">
-<h1>25+</h1>
-<sub><b>U.S. States</b></sub>
-</td>
-</tr>
-</table>
+<td align="center" width="25%">
 
-<table>
-<tr>
-<td align="center" width="200">
-<h3>⚡ Bi-weekly → Daily</h3>
-<sub><b>Deployment Cadence</b></sub>
+**↓ 35%** Downtime
+<sub>Predictive maintenance</sub>
+
 </td>
-<td align="center" width="200">
-<h3>📉 30-40% Faster</h3>
-<sub><b>API Response Times</b></sub>
+<td align="center" width="25%">
+
+**↓ 70%** Manual Work
+<sub>Hospital workflow automation</sub>
+
 </td>
-<td align="center" width="200">
-<h3>🐛 20% Fewer</h3>
-<sub><b>Defect Rates</b></sub>
+<td align="center" width="25%">
+
+**95%+** Test Coverage
+<sub>JUnit · Mockito · Testcontainers</sub>
+
 </td>
-<td align="center" width="200">
-<h3>🚀 25% Faster</h3>
-<sub><b>Dev Onboarding</b></sub>
+<td align="center" width="25%">
+
+**Daily** Deploys
+<sub>From bi-weekly cadence</sub>
+
 </td>
 </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
-
-<div align="center">
-
-### ⚙️ Core Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" />
-</p>
-
-### 🏗️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/HL7_FHIR_R4-E44D26?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css" />
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
-</p>
-
-### 📨 Messaging & Event Streaming
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Event--Driven_Architecture-FF6600?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases & Caching
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### 🔐 Security & Authentication
-<p>
-<img src="https://img.shields.io/badge/OAuth2_/_PKCE-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-4A154B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AES--256-2E86C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TLS/SSL-008080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IPSec_VPN-1A5276?style=for-the-badge" />
-</p>
-
-### 🔄 DevOps & CI/CD
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,maven" />
-</p>
-
-### 📊 Monitoring & Observability
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-</p>
-
-### ✅ Testing & Quality
-<p>
-<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/95%25+_Coverage-brightgreen?style=for-the-badge" />
-</p>
-
-### 🤝 Tools & Collaboration
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile/Scrum-6DB33F?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Professional Journey
+## Technical Expertise
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'cScale0': '#6C63FF', 'cScale1': '#00D9FF', 'cScale2': '#FF6B6B'}}}%%
-timeline
-    title 🚀 Career Evolution
-    section Fintech Era
-        Jan 2020 - Nov 2021 : 🏦 InvestMitra
-                             : Full Stack Developer
-                             : Angular · Spring Boot · Kafka · RabbitMQ
-    section Healthcare Era
-        Nov 2021 - May 2024 : 🏥 Cognizant Technology Solutions
-                             : Backend Developer
-                             : HL7 FHIR R4 · SmartEMR · NDHM · AWS & Azure
-    section Telecom Era
-        Dec 2024 - Present  : 📡 Aviat Networks
-                             : Full Stack Developer
-                             : Real-Time Telemetry · Kafka · AWS · 25+ States
-```
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | `Java` · `Python` · `TypeScript` · `JavaScript` · `SQL` |
+| **Backend** | `Spring Boot` · `Spring Cloud` · `Spring Batch` · `Hibernate/JPA` · `HL7 FHIR R4` · `Swagger/OpenAPI` |
+| **Cloud** | `AWS (ECS · EC2 · Lambda · S3 · CloudWatch · IAM · RDS)` · `Azure (App Services · Blob Storage)` |
+| **Containers** | `Docker` · `Kubernetes` |
+| **Messaging** | `Apache Kafka (Producers · Consumers · Streams)` · `RabbitMQ` |
+| **Databases** | `PostgreSQL` · `Redis` · `Oracle` · `SQL Server` |
+| **Security** | `OAuth2 / PKCE` · `JWT` · `RBAC` · `AES-256` · `TLS/SSL` · `IPSec VPN` |
+| **CI/CD** | `Jenkins` · `GitHub Actions` · `Maven` |
+| **Observability** | `Prometheus` · `Grafana` · `ELK Stack` · `AWS CloudWatch` |
+| **Testing** | `JUnit 5` · `Mockito` · `Testcontainers` |
+| **Frontend** | `Angular 7+` · `React` |
+| **Tools** | `Git` · `Jira` · `Confluence` · `Agile/Scrum` |
 
 </div>
 
 <br/>
 
-<details>
-<summary><h3>📡 Aviat Networks — Full Stack Developer <code>Dec 2024 – Present</code></h3></summary>
-<br/>
+## Professional Experience
 
-> **Domain:** Telecom &nbsp;|&nbsp; **Scale:** Thousands of radios, 25+ U.S. states &nbsp;|&nbsp; **Stack:** Spring Boot, Kafka, AWS, Docker, K8s
+### 📡 &nbsp;Aviat Networks — Full Stack Developer
+**Dec 2024 – Present** &nbsp;·&nbsp; Telecom &nbsp;·&nbsp; USA
 
-<table>
-<tr><td>
-
-**🎯 What I Built**
-- Multi-tenant device management microservices for telemetry ingestion, alarm processing & user auth
-- Kafka pipelines streaming real-time telemetry & alarms from thousands of field-deployed radios
-- Intelligent alerting logic with cloud-based remote management across 25+ states
-- Secure device provisioning via SNMP & NETCONF with AES-256, TLS & VPN tunnels
-
-**📈 Impact Delivered**
-- **↓ 35%** unplanned downtime through predictive maintenance workflows
-- **↓ 40%** field maintenance costs via intelligent alerting
-- **99.99%** uptime with event-driven architecture & AWS autoscaling
-- **Bi-weekly → Daily** deployment cycles with Docker, Jenkins & K8s
-- **↓ 30%+** API response times via PostgreSQL tuning & Redis caching
-- **95%+** test coverage with JUnit, Mockito & Testcontainers
-- **↓ 20%** defect rates through mentoring junior devs on backend best practices
-
-</td></tr>
-</table>
-</details>
+Designing microservices for multi-tenant device management serving thousands of radios across 25+ U.S. states. Building real-time telemetry and alarm processing pipelines that power predictive maintenance at scale.
 
 <details>
-<summary><h3>🏥 Cognizant Technology Solutions — Backend Developer <code>Nov 2021 – May 2024</code></h3></summary>
+<summary><b>Key Contributions & Impact →</b></summary>
 <br/>
 
-> **Domain:** Healthcare &nbsp;|&nbsp; **Scale:** Multi-hospital deployment across India &nbsp;|&nbsp; **Stack:** Spring Boot, PostgreSQL, Kafka, AWS, Azure
+- Engineered **Kafka pipelines** for real-time telemetry ingestion from thousands of field-deployed radios, enabling predictive maintenance that reduced unplanned downtime by **35%**
+- Delivered cloud-based remote management and intelligent alerting logic, cutting field maintenance costs by **40%** across 25+ states
+- Achieved **99.99% uptime** managing AWS infrastructure (ECS, Lambda, S3, CloudWatch) with event-driven architecture and autoscaling
+- Tuned PostgreSQL queries and introduced Redis caching, improving API response times and dashboard performance by **30%+**
+- Accelerated release cycles from **bi-weekly to daily** deployments using Docker, Jenkins, and Kubernetes
+- Maintained **95%+ test coverage** with JUnit, Mockito, and Testcontainers across all services
+- Automated device provisioning via SNMP and NETCONF with AES-256 encryption, TLS, and VPN tunnels
+- Built end-to-end observability with CloudWatch and centralized logging for real-time monitoring and proactive incident resolution
+- Enforced OAuth2, JWT, and RBAC security standards across all microservices
+- Mentored junior developers on backend best practices, reducing defect rates by **20%**
 
-<table>
-<tr><td>
-
-**🎯 What I Built**
-- Production-ready **SmartEMR** hospital platform — patient records, scheduling, prescriptions, billing, labs
-- **HL7 FHIR R4-compliant** APIs using Java FHIR SDK for national health data interoperability
-- Secure gateway for hospital ↔ NDHM data transmission with AES-256 & JSON Web Signatures
-- OAuth2 PKCE + JWT auth for consent-driven data sharing aligned with India's digital health mission
-
-**📈 Impact Delivered**
-- **100%** FHIR R4 compliance — passed NDHM sandbox certification for production
-- **↓ 70%** manual handling time across all hospital workflow modules
-- **↓ 40%** faster data retrieval through advanced JPA query optimization
-- **↑ 35%** transmission performance via Kafka async event logging
-- **90%+** test coverage with JUnit & Mockito
-- Dual-cloud deployment: **AWS** (SmartEMR) + **Azure** (NDHM Gateway)
-- Platform adopted by hospitals with architecture designed for multi-institution scaling
-
-</td></tr>
-</table>
-</details>
-
-<details>
-<summary><h3>🏦 InvestMitra — Full Stack Developer <code>Jan 2020 – Nov 2021</code></h3></summary>
-<br/>
-
-> **Domain:** Fintech &nbsp;|&nbsp; **Stack:** Angular 7, Spring Boot, Kafka, RabbitMQ, SQL Server, Oracle
-
-<table>
-<tr><td>
-
-**🎯 What I Built**
-- Angular 7 + Spring Boot fintech SPAs with reusable React UI modules
-- High-throughput event streaming with Kafka + lightweight messaging with RabbitMQ
-- Spring Batch orchestration for large-scale data processing jobs
-- Hibernate/JPA persistence layers with query optimization across SQL Server & Oracle
-
-**📈 Impact Delivered**
-- Reduced message latency with real-time Kafka + RabbitMQ event pipelines
-- Lowered average query execution time through Hibernate optimization
-- Streamlined releases with Docker containers on AWS EC2 + S3 + RDS
-- Centralized logging with SLF4J + ELK Stack for faster incident resolution
-- Feature-branch Git workflow that reduced merge conflicts & accelerated releases
-
-</td></tr>
-</table>
 </details>
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> &nbsp;System Design Philosophy
+### 🏥 &nbsp;Cognizant Technology Solutions — Backend Developer
+**Nov 2021 – May 2024** &nbsp;·&nbsp; Healthcare &nbsp;·&nbsp; India (Remote)
 
-```
-                        ┌──────────────────────────────────────────────────┐
-                        │         HOW I BUILD PRODUCTION SYSTEMS           │
-                        └──────────────┬───────────────────────────────────┘
-                                       │
-              ┌────────────────────────┼────────────────────────┐
-              │                        │                        │
-      ┌───────▼────────┐     ┌────────▼────────┐     ┌────────▼────────┐
-      │   🧱 DESIGN     │     │   🔄 RUNTIME     │     │   🛡️ QUALITY    │
-      ├────────────────┤     ├─────────────────┤     ├─────────────────┤
-      │ Domain-Driven  │     │ Event-Driven    │     │ 95%+ Test       │
-      │ Microservices  │     │ Kafka Streams   │     │ Coverage        │
-      │ RESTful APIs   │     │ Async Messaging │     │ CI/CD Gates     │
-      │ OpenAPI Specs  │     │ Auto-Scaling    │     │ Code Reviews    │
-      └───────┬────────┘     └────────┬────────┘     └────────┬────────┘
-              │                        │                        │
-      ┌───────▼────────┐     ┌────────▼────────┐     ┌────────▼────────┐
-      │   ☁️ INFRA      │     │   🔐 SECURITY   │     │   📊 OBSERVE    │
-      ├────────────────┤     ├─────────────────┤     ├─────────────────┤
-      │ AWS / Azure    │     │ OAuth2 + JWT    │     │ Prometheus      │
-      │ Docker + K8s   │     │ AES-256 + TLS   │     │ Grafana + ELK  │
-      │ IaC Pipelines  │     │ RBAC + VPN      │     │ CloudWatch      │
-      └────────────────┘     └─────────────────┘     └─────────────────┘
-```
+Designed and built **SmartEMR**, a production-ready hospital management platform adopted by multiple hospitals across India. Led integration with India's National Digital Health Mission (NDHM) for standards-compliant health data exchange.
 
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Master_of_Science-Computer_Science_&_Engineering-6C63FF?style=for-the-badge" />
+<details>
+<summary><b>Key Contributions & Impact →</b></summary>
 <br/>
-<sub><b>SUNY New Paltz • May 2025</b></sub>
 
-<br/><br/>
+- Built modular Spring Boot microservices covering patient records, scheduling, prescriptions, billing, and lab processing — reducing manual handling by **70%**
+- Developed **HL7 FHIR R4-compliant** APIs using the Java FHIR SDK, achieving **100% standards compliance** and passing national sandbox certification
+- Implemented secure data gateway for hospital ↔ NDHM transmission using AES-256 encryption and JSON Web Signatures (JWS)
+- Built OAuth2 PKCE + JWT authentication for consent-driven data sharing aligned with NDHM requirements
+- Leveraged Apache Kafka for async event logging and audit trails, improving transmission performance by **35%**
+- Optimized JPA queries, achieving **40% faster** data retrieval across critical modules
+- Deployed on **AWS** (SmartEMR) and **Azure** (NDHM Gateway) for multi-region scalability
+- Implemented monitoring with Prometheus, Grafana, and ELK Stack for system health and rapid incident response
+- Maintained **90%+ test coverage** with JUnit and Mockito
+- Built CI/CD pipelines with Jenkins and GitHub Actions, automating build-to-production workflows
 
-<img src="https://img.shields.io/badge/📜_Certified_Full_Stack_Developer-Indian_Institute_of_Technology,_Chennai-00D9FF?style=for-the-badge" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=6C63FF" height="180" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D9FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" height="200" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D9FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%" />
-
-</div>
+</details>
 
 ---
 
-## 🐍 Contribution Snake
+### 🏦 &nbsp;InvestMitra — Full Stack Developer
+**Jan 2020 – Nov 2021** &nbsp;·&nbsp; Fintech &nbsp;·&nbsp; India (Remote)
 
-<div align="center">
+Built full-stack fintech applications with Angular and Spring Boot, implementing event-driven architectures for real-time data processing and analytics.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" />
-</picture>
+<details>
+<summary><b>Key Contributions & Impact →</b></summary>
+<br/>
 
-<sub>⬆️ Set up with <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to auto-generate</sub>
+- Built Angular 7 frontend components with TypeScript integrated with Spring Boot microservices for responsive SPAs
+- Implemented Kafka for high-throughput event streaming and RabbitMQ for lightweight messaging, enabling real-time data flow
+- Orchestrated large-scale batch data processing with Spring Batch, reducing processing time significantly
+- Developed Hibernate/JPA persistence layers across SQL Server and Oracle with query optimization
+- Secured APIs with OAuth 2.0, JWT, and TLS/SSL encryption
+- Deployed containerized services on AWS EC2 with S3 and RDS integration
+- Created Jenkins CI/CD pipelines with JUnit test gates, raising coverage and catching regressions early
+- Centralized logging with SLF4J and ELK Stack, reducing mean time to resolution
+- Managed Git workflows with feature-branch strategy and code reviews
 
-</div>
-
----
-
-## 🌍 Where My Code Runs
-
-```
-🇺🇸 United States   ████████████████████  25+ States (Telecom Radios)
-🇮🇳 India            ██████████████████    Multi-Hospital Networks (Healthcare)
-🌍 Africa           ████████████          Telecom Operators
-🌏 Asia             ████████████          Telecom Operators
-```
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-<br/><br/>
-
-### 💬 *"I build systems that scale to millions — and sleep well knowing they won't break at 3 AM."*
+</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:00D9FF&height=120&section=footer" width="100%" />
+## Architecture Approach
+
+```
+How I think about building systems:
+
+  Design        →  Domain-driven microservices with clear bounded contexts
+  Communication →  Event-driven: Kafka for streaming, RabbitMQ for messaging
+  Deployment    →  Containerized (Docker + K8s) with automated CI/CD
+  Security      →  Zero-trust: OAuth2, JWT, encryption at rest and in transit
+  Reliability   →  Observable systems: Prometheus, Grafana, ELK, CloudWatch
+  Quality       →  Test-driven: 95%+ coverage, integration tests with Testcontainers
+  Scale         →  Cloud-native on AWS & Azure with autoscaling and multi-region support
+```
+
+<br/>
+
+## Where My Systems Run
+
+```
+🇺🇸 United States    25+ states — telecom radio networks
+🇮🇳 India            Multi-hospital healthcare networks
+🌍 Africa           Telecom operator infrastructure
+🌏 Asia             Telecom operator infrastructure
+```
+
+<br/>
+
+## Education & Certification
+
+**Master of Science, Computer Science & Engineering**
+SUNY New Paltz · 2025
+
+**Certified Full Stack Developer**
+Indian Institute of Technology, Chennai
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KallaReddieswaraNaidu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallaReddieswaraNaidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KallaReddieswaraNaidu&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" height="180" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*Building systems that scale to millions — reliably, securely, and without waking anyone up at 3 AM.*
+
+[<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />](https://www.linkedin.com/in/kalla-reddieswara-naidu)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=flat&logo=gmail&logoColor=white" height="28" />](mailto:reddieswaranaidusunycs@gmail.com)
 
 </div>
